@@ -1,0 +1,18 @@
+body {
+    background-color: #212121;
+    color: aquamarine;
+}
+
+a {
+    color: yellow;
+    margin-right: 10px;
+}
+
+button {
+    color: bisque;
+    background-color: blue;
+}
+
+#end {
+    color: fuchsia;
+}

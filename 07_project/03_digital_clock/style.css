@@ -1,0 +1,31 @@
+body {
+    background-color: #212121;
+    color: #fff;
+}
+.center {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#banner {
+    color: cyan;
+    font-size: larger;
+    font-size: 30px;
+    
+}
+#clock {
+    font-size: 40px;
+    background-color: orange;
+    padding: 20px 50px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 2px solid #610fdc;
+
+}
+a {
+    color: yellow;
+    margin-right: 10px; /* Adjust the value as needed */
+    
+}
